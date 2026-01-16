@@ -123,7 +123,3 @@ The model effectively detects fraudulent transactions with high precision and re
 - Pandas  
 - NumPy  
 - Matplotlib / Seaborn  
-
----
-
-## 📁 Repository Structure
